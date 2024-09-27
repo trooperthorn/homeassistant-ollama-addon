@@ -23,7 +23,7 @@ Please enter the subfolder [ollama](ollama/) for further details on the [CHANGEL
 [commits]: https://github.com/trooperthorn/homeassistant-ollama-addon/commits/master
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=SirUli
-[license-shield]: https://img.shields.io/github/license/SirUli/homeassistant-ollama-addon.svg
+[license-shield]: https://img.shields.io/github/license/trooperthorn/homeassistant-ollama-addon.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [last-commit-shield]: https://img.shields.io/github/last-commit/trooperthorn/homeassistant-ollama-addon.svg
 [stars-shield]: https://img.shields.io/github/stars/trooperthorn/homeassistant-ollama-addon.svg?style=social&label=Stars
