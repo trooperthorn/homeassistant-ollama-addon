@@ -2,7 +2,7 @@ name: "OllamaAMD"
 description: "AMD GPU Ollama Get up and running with large language models"
 # renovate: datasource=github-tags depName=ollama/ollama
 version: "0.3.12.1"
-slug: "ollama"
+slug: "ollama-amd"
 arch:
   - amd64
 url: https://ollama.com
