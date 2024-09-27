@@ -1,4 +1,4 @@
-name: "Ollama"
+name: "Ollama - AMD GPU"
 description: "Get up and running with large language models"
 # renovate: datasource=github-tags depName=ollama/ollama
 version: "0.3.12"
